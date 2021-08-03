@@ -1,0 +1,6 @@
+{
+  "extends": ["config:base"],
+  "semanticCommits": true,
+  "prCreation": "not-pending",
+  "labels": ["dependencies"]
+}
