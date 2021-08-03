@@ -1,5 +1,6 @@
 {
-  "name": "desafio01",
+  "name": "nodejs-database-queries-challenge",
+  "description": "🔥 Código de resolução do desafio Database Queries, da trilha de NodeJS — Ignite",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
