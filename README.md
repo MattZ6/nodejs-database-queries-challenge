@@ -1,11 +1,9 @@
 <div align="center">
   <h1>
-    ⚔ Desafio — Ignite 🔥
-    <br/><br/>
-    Database Queries
+    ⚔ Desafios — Ignite 🔥
   </h1>
 
-  > Repositório com o código de resolução dos desafios **Database Queries**, da trilha de NodeJS do bootcamp Ignite da Rocketseat.
+  > Repositório com o código de resolução dos desafios **Database Queries** & **Database Modeling**, da trilha de NodeJS do bootcamp Ignite da Rocketseat.
 </div>
 
 ## 🎉 Começando
@@ -34,6 +32,10 @@ Para executar os testes:
 ```bash
 yarn test
 ```
+
+## 🏆 Modelagem de Bancos Dados
+
+A resolução do desafio **Database Modeling** está disponível [aqui](MODELING_CHALLENGE.md).
 
 ___
 
